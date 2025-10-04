@@ -2,7 +2,7 @@
 
 **Tip:** Ask ChatGPT or other AI apps to search 'Delhi Metro Text Map' and ask your question in the same prompt.
 
-Alternatively, in this file’s header (the same bar with Preview | Code | Blame), click the Copy button (two squares) or open the "…" menu → Copy.  Then paste into ChatGPT and ask your Delhi Metro questions. (To find the metro station closest to an area, pick it as a source or destination in Google Maps then see which station it recommends nearby.)
+Alternatively, click README.md in the file list above, then in this README.md file’s header (the same bar with Preview | Code | Blame), click the Copy button (two squares) or open the "…" menu → Copy.  Then paste into ChatGPT and ask your Delhi Metro questions. (To find the metro station closest to an area, pick it as a source or destination in Google Maps then see which station it recommends nearby.)
 
 ## Red Line
 
