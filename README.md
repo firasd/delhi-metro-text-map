@@ -12,9 +12,9 @@ Geo: [R01] (28.671,77.416) →→ [R05] (28.678, 77.370) →→ [R10] (28.676,77
 
 Interchanges:
 
-* Red to Yellow: [R16]=[Y12] Kashmere Gate (28.668,77.228) // Plat1 to [Y37], Plat2 to [Y01]
+* Red to Yellow: [R16]=[Y12] Kashmere Gate (28.668,77.228)
 * Red to Green: [R21]=[GN03] Inderlok (28.674,77.170) // Plat3&4 to [GN24]
-* Red to Violet: [R16]=[V01] Kashmere Gate (28.668,77.228) // Plat5 to [V34], Plat6 to [V01]
+* Red to Violet: [R16]=[V01] Kashmere Gate (28.668,77.228)
 * Red to Pink:
   - [R13]=[P33] Welcome (28.672,77.278) // Plat3 to [P38], Plat4 to [P01]
   - [R24]=[P04] Netaji Subhash Place (28.696,77.153) // Plat3 to [P38]/[P35], Plat4 to [P01]
@@ -28,11 +28,11 @@ Geo: [Y01] (28.745,77.138) →→ [Y05] (28.714, 77.167) →→ [Y10] (28.687,77
 
 Interchanges:
 
-* Yellow to Red: [Y12]=[R16] Kashmere Gate (28.668,77.228) // Plat3 to [R29], Plat4 to [R01]
+* Yellow to Red: [Y12]=[R16] Kashmere Gate (28.668,77.228)
 * Yellow to Blue (Main): [Y16]=[BM29] Rajiv Chowk (28.633,77.219) // Plat3 to [BM50]/[BB08], Plat4 to [BM01]
 * Yellow to Violet:
   - [Y18]=[V08] Central Secretariat (28.615,77.212) // Plat3 to [V34], Plat4 to [V01]
-  - [Y12]=[V01] Kashmere Gate (28.668,77.228) // Plat5 to [V34], Plat6 to [V01]
+  - [Y12]=[V01] Kashmere Gate (28.668,77.228)
 * Yellow to Pink:
   - [Y06]=[P02] Azadpur (28.707,77.181) // Plat3 to [P35]/[P38], Plat4 to [P01]
   - [Y22]=[P16] Dilli Haat INA (28.574,77.210) // Plat3 to [P38]/[P35], Plat4 to [P01]
@@ -101,7 +101,7 @@ Interchanges:
 
 * Violet to Red: [V01]=[R16] Kashmere Gate (28.668,77.228) // Plat3 to [R29], Plat4 to [R01]
 * Violet to Yellow:
-  - [V01]=[Y12] Kashmere Gate (28.668,77.228) // Plat1 to [Y37], Plat2 to [Y01]
+  - [V01]=[Y12] Kashmere Gate (28.668,77.228)
   - [V08]=[Y18] Central Secretariat (28.615,77.212) // Plat1 to [Y37], Plat2 to [Y01]
 * Violet to Blue (Main): [V06]=[BM31] Mandi House (28.626,77.234) // Plat1 to [BM50]/[BB08], Plat2 to [BM01]
 * Violet to Pink: [V12]=[P18] Lajpat Nagar (28.571,77.234) // Plat3 to [P38], Plat4 to [P01]
@@ -177,8 +177,15 @@ Geo: [RM01] (28.423,77.105) →→ [RM05] (28.471,77.093) →→ [RM10] (28.500,
 
 * RMGL to Yellow: [RM06]=[Y34] Sikanderpur (28.481,77.093) // Plat1 to [Y37], Plat2 to [Y01]
 
+## Interchange Platforms (In Progress)
+
+[R16]=[Y12]=[V01] Kashmere Gate:
+- Yellow: Plat1 to [Y37], Plat2 to [Y01]
+- Red: Plat3 to [R29], Plat4 to [R01]
+- Violet: Plat5 to [V34], Plat6 terminus
+
 This text map is designed to help humans or AI wayfind routes between areas and metro stops in Delhi. Note that numbers like [R01] are internal IDs in this document, not official notation. (official site: delhimetrorail.com)
 
 Instructions for AI: Please avoid compass directions and instead refer to train directions based on terminal stations. Eg. instead of "Northbound", say "to Samaypur Badli"
 
-Last updated: 4th October 2025
+Last updated: 30 October 2025
