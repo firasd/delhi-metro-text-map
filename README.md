@@ -13,7 +13,7 @@ Geo: [R01] (28.671,77.416) →→ [R05] (28.678, 77.370) →→ [R10] (28.676,77
 Interchanges:
 
 * Red to Yellow: [R16]=[Y12] Kashmere Gate (28.668,77.228)
-* Red to Green: [R21]=[GN03] Inderlok (28.674,77.170) // Plat3&4 to [GN24]
+* Red to Green: [R21]=[GN03] Inderlok (28.674,77.170)
 * Red to Violet: [R16]=[V01] Kashmere Gate (28.668,77.228)
 * Red to Pink:
   - [R13]=[P33] Welcome (28.672,77.278) // Plat3 to [P38], Plat4 to [P01]
@@ -86,7 +86,7 @@ Geo: [GN01] (28.656,77.151) →→ [GN05] (28.673,77.144) →→ [GN10] (28.679,
 
 Interchanges:
 
-* Green to Red: [GN03]=[R21] Inderlok (28.674,77.170) // Plat1 to [R29], Plat2 to [R01]
+* Green to Red: [GN03]=[R21] Inderlok (28.674,77.170) 
 * Green to Blue (Main): [GN01]=[BM22] Kirti Nagar (28.656,77.151) // Plat1 to [BM50]/[BB08], Plat2 to [BM01]
 * Green to Pink: [GN06]=[P06] Punjabi Bagh West (28.673,77.136) // Plat1 to [P38]/[P35], Plat2 to [P01]
 
@@ -183,6 +183,10 @@ Geo: [RM01] (28.423,77.105) →→ [RM05] (28.471,77.093) →→ [RM10] (28.500,
 - Yellow: Plat1 to [Y37], Plat2 to [Y01]
 - Red: Plat3 to [R29], Plat4 to [R01]
 - Violet: Plat5 to [V34], Plat6 terminus
+
+[R21]=[GN03] Inderlok:
+- Red: Plat1 to [R29], Plat2 to [R01]
+- Green: Plat3&4 to [GN24]
 
 This text map is designed to help humans or AI wayfind routes between areas and metro stops in Delhi. Note that numbers like [R01] are internal IDs in this document, not official notation. (official site: delhimetrorail.com)
 
