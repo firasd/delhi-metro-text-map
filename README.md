@@ -16,7 +16,7 @@ Interchanges:
 * Red to Green: [R21]=[GN03] Inderlok (28.674,77.170)
 * Red to Violet: [R16]=[V01] Kashmere Gate (28.668,77.228)
 * Red to Pink:
-  - [R13]=[P33] Welcome (28.672,77.278) // Plat3 to [P38], Plat4 to [P01]
+  - [R13]=[P33] Welcome (28.672,77.278)
   - [R24]=[P04] Netaji Subhash Place (28.696,77.153) // Plat3 to [P38]/[P35], Plat4 to [P01]
 
 ## Yellow Line
@@ -187,6 +187,9 @@ Geo: [RM01] (28.423,77.105) →→ [RM05] (28.471,77.093) →→ [RM10] (28.500,
 [R21]=[GN03] Inderlok:
 - Red: Plat1 to [R29], Plat2 to [R01]
 - Green: Plat3&4 to [GN24]
+
+[R13]=[P33] Welcome:
+- Pink: Plat3 to [P38], Plat4 to [P01]
 
 This text map is designed to help humans or AI wayfind routes between areas and metro stops in Delhi. Note that numbers like [R01] are internal IDs in this document, not official notation. (official site: delhimetrorail.com)
 
