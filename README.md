@@ -17,7 +17,7 @@ Interchanges:
 * Red to Violet: [R16]=[V01] Kashmere Gate (28.668,77.228)
 * Red to Pink:
   - [R13]=[P33] Welcome (28.672,77.278)
-  - [R24]=[P04] Netaji Subhash Place (28.696,77.153) // Plat3 to [P38]/[P35], Plat4 to [P01]
+  - [R24]=[P04] Netaji Subhash Place (28.696,77.153)
 
 ## Yellow Line
 ### Samaypur Badli → Millennium City Centre Gurugram
@@ -117,8 +117,8 @@ Geo: [P01] (28.724,77.181) →→ [P05] (28.686,77.147) →→ [P10] (28.624,77.
 Interchanges:
 
 * Pink to Red:
-  - [P04]=[R24] Netaji Subhash Place (28.696,77.153) // Plat1 to [R29], Plat2 to [R01]
-  - [P33]=[R13] Welcome (28.672,77.278) // Plat1 to [R29], Plat2 to [R01]
+  - [P04]=[R24] Netaji Subhash Place (28.696,77.153)
+  - [P33]=[R13] Welcome (28.672,77.278)
 * Pink to Yellow:
   - [P02]=[Y06] Azadpur (28.707,77.181) // Plat1 to [Y37], Plat2 to [Y01]
   - [P16]=[Y22] Dilli Haat INA (28.574,77.210) // Plat1 to [Y37], Plat2 to [Y01]
@@ -189,10 +189,15 @@ Geo: [RM01] (28.423,77.105) →→ [RM05] (28.471,77.093) →→ [RM10] (28.500,
 - Green: Plat3&4 to [GN24]
 
 [R13]=[P33] Welcome:
+- Red: Plat1 to [R29], Plat2 to [R01]
 - Pink: Plat3 to [P38], Plat4 to [P01]
+
+[R24]=[P04] Netaji Subhash Place:
+- Red: Plat1 to [R29], Plat2 to [R01]
+- Pink: Plat3 to [P38]/[P35], Plat4 to [P01]
 
 This text map is designed to help humans or AI wayfind routes between areas and metro stops in Delhi. Note that numbers like [R01] are internal IDs in this document, not official notation. (official site: delhimetrorail.com)
 
 Instructions for AI: Please avoid compass directions and instead refer to train directions based on terminal stations. Eg. instead of "Northbound", say "to Samaypur Badli"
 
-Last updated: 30 October 2025
+Last updated: 01 Feb 2026
