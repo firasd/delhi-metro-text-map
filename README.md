@@ -29,16 +29,16 @@ Geo: [Y01] (28.745,77.138) →→ [Y05] (28.714, 77.167) →→ [Y10] (28.687,77
 Interchanges:
 
 * Yellow to Red: [Y12]=[R16] Kashmere Gate (28.668,77.228)
-* Yellow to Blue (Main): [Y16]=[BM29] Rajiv Chowk (28.633,77.219) // Plat3 to [BM50]/[BB08], Plat4 to [BM01]
+* Yellow to Blue (Main): [Y16]=[BM29] Rajiv Chowk (28.633,77.219)
 * Yellow to Violet:
-  - [Y18]=[V08] Central Secretariat (28.615,77.212) // Plat3 to [V34], Plat4 to [V01]
+  - [Y18]=[V08] Central Secretariat (28.615,77.212)
   - [Y12]=[V01] Kashmere Gate (28.668,77.228)
 * Yellow to Pink:
-  - [Y06]=[P02] Azadpur (28.707,77.181) // Plat3 to [P35]/[P38], Plat4 to [P01]
-  - [Y22]=[P16] Dilli Haat INA (28.574,77.210) // Plat3 to [P38]/[P35], Plat4 to [P01]
-* Yellow to Magenta: [Y25]=[M13] Hauz Khas (28.544,77.206) // Plat3 to [M21], Plat4 to [M01]
+  - [Y06]=[P02] Azadpur (28.707,77.181)
+  - [Y22]=[P16] Dilli Haat INA (28.574,77.210)
+* Yellow to Magenta: [Y25]=[M13] Hauz Khas (28.544,77.206)
 * Yellow to Airport Express: [Y15]=[AE01] New Delhi (28.643,77.220)
-* Yellow to Rapid Metro: [Y34]=[RM06] Sikanderpur (28.481,77.093) // Plat1 to [RM01], Plat2 to [RM11]
+* Yellow to Rapid Metro: [Y34]=[RM06] Sikanderpur (28.481,77.093)
 
 ## Blue Line (Main)
 ### Dwarka Sector 21 → Noida Electronic City
@@ -49,18 +49,18 @@ Geo: [BM01] (28.552,77.058) →→ [BM05] (28.586, 77.050) →→ [BM10] (28.622
 
 Interchanges:
 
-* Blue (Main) to Yellow: [BM29]=[Y16] Rajiv Chowk (28.633,77.219) // Plat1 to [Y37], Plat2 to [Y01]
-* Blue (Main) to Blue (Branch): [BM34]=[BB01] Yamuna Bank (28.623,77.268) // Plat3 to [BB08]
-* Blue (Main) to Green: [BM22]=[GN01] Kirti Nagar (28.656,77.151) // Plat3 to [GN24], Plat4 to [GN01]
-* Blue (Main) to Violet: [BM31]=[V06] Mandi House (28.626,77.234) // Plat3 to [V34], Plat4 to [V01]
+* Blue (Main) to Yellow: [BM29]=[Y16] Rajiv Chowk (28.633,77.219)
+* Blue (Main) to Blue (Branch): [BM34]=[BB01] Yamuna Bank (28.623,77.268)
+* Blue (Main) to Green: [BM22]=[GN01] Kirti Nagar (28.656,77.151)
+* Blue (Main) to Violet: [BM31]=[V06] Mandi House (28.626,77.234)
 * Blue (Main) to Pink:
-  - [BM19]=[P08] Rajouri Garden (28.649,77.123) // Plat3 to [P38]/[P35], Plat4 to [P01]
-  - [BM36]=[P22] Mayur Vihar I (28.604,77.290) // Plat3 to [P38], Plat4 to [P01]
+  - [BM19]=[P08] Rajouri Garden (28.649,77.123)
+  - [BM36]=[P22] Mayur Vihar I (28.604,77.290)
 * Blue (Main) to Magenta:
-  - [BM14]=[M02] Janakpuri West (28.630,77.078) // Plat4 to [M26]
-  - [BM42]=[M26] Botanical Garden (28.564,77.334) // Plat3 to [M26], Plat4 to [M02]
-* Blue (Main) to Grey: [BM09]=[GY01] Dwarka (28.615,77.023) // Plat4 to [GY01], Plat5 to [GY04]
-* Blue (Main) to Airport Express: [BM01]=[AE06] Dwarka Sector 21 (28.552,77.058) // Plat2 to [AE07], Plat3 to [AE01], Plat4 to [AE01]
+  - [BM14]=[M02] Janakpuri West (28.630,77.078)
+  - [BM42]=[M26] Botanical Garden (28.564,77.334)
+* Blue (Main) to Grey: [BM09]=[GY01] Dwarka (28.615,77.023)
+* Blue (Main) to Airport Express: [BM01]=[AE06] Dwarka Sector 21 (28.552,77.058)
 
 ## Blue Line (Branch)
 ### Yamuna Bank → Vaishali
@@ -72,10 +72,10 @@ Geo: [BB01] (28.623,77.268) →→ [BB05] (28.649,77.306) →→ [BB08] (28.650,
 Interchanges:
 
 * Blue (Branch) to Blue (Main):
-  - [BB01]=[BM34] Yamuna Bank (28.623,77.268) // Plat1 to [BM50], Plat2 to [BM01], Plat4 to [BM01]
+  - [BB01]=[BM34] Yamuna Bank (28.623,77.268)
 * Blue (Branch) to Pink:
-  - [BB05]=[P29] Karkarduma (28.649,77.306) // Plat3 to [P38], Plat4 to [P01]
-  - [BB06]=[P28] Anand Vihar ISBT (28.647,77.316) // Plat3 to [P38], Plat4 to [P01]
+  - [BB05]=[P29] Karkarduma (28.649,77.306)
+  - [BB06]=[P28] Anand Vihar ISBT (28.647,77.316)
 
 ## Green Line
 ### Kirti Nagar → Brig. Hoshiar Singh
@@ -87,8 +87,8 @@ Geo: [GN01] (28.656,77.151) →→ [GN05] (28.673,77.144) →→ [GN10] (28.679,
 Interchanges:
 
 * Green to Red: [GN03]=[R21] Inderlok (28.674,77.170) 
-* Green to Blue (Main): [GN01]=[BM22] Kirti Nagar (28.656,77.151) // Plat1 to [BM50]/[BB08], Plat2 to [BM01]
-* Green to Pink: [GN06]=[P06] Punjabi Bagh West (28.673,77.136) // Plat1 to [P38]/[P35], Plat2 to [P01]
+* Green to Blue (Main): [GN01]=[BM22] Kirti Nagar (28.656,77.151)
+* Green to Pink: [GN06]=[P06] Punjabi Bagh West (28.673,77.136)
 
 ## Violet Line
 ### Kashmere Gate → Raja Nahar Singh (Ballabhgarh)
@@ -102,10 +102,10 @@ Interchanges:
 * Violet to Red: [V01]=[R16] Kashmere Gate (28.668,77.228) // Plat3 to [R29], Plat4 to [R01]
 * Violet to Yellow:
   - [V01]=[Y12] Kashmere Gate (28.668,77.228)
-  - [V08]=[Y18] Central Secretariat (28.615,77.212) // Plat1 to [Y37], Plat2 to [Y01]
-* Violet to Blue (Main): [V06]=[BM31] Mandi House (28.626,77.234) // Plat1 to [BM50]/[BB08], Plat2 to [BM01]
-* Violet to Pink: [V12]=[P18] Lajpat Nagar (28.571,77.234) // Plat3 to [P38], Plat4 to [P01]
-* Violet to Magenta: [V16]=[M18] Kalkaji Mandir (28.549,77.257) // Plat3 to [M26], Plat4 to [M02]
+  - [V08]=[Y18] Central Secretariat (28.615,77.212)
+* Violet to Blue (Main): [V06]=[BM31] Mandi House (28.626,77.234)
+* Violet to Pink: [V12]=[P18] Lajpat Nagar (28.571,77.234)
+* Violet to Magenta: [V16]=[M18] Kalkaji Mandir (28.549,77.257)
 
 ## Pink Line
 ### Majlis Park → Shiv Vihar
@@ -120,16 +120,16 @@ Interchanges:
   - [P04]=[R24] Netaji Subhash Place (28.696,77.153)
   - [P33]=[R13] Welcome (28.672,77.278)
 * Pink to Yellow:
-  - [P02]=[Y06] Azadpur (28.707,77.181) // Plat1 to [Y37], Plat2 to [Y01]
-  - [P16]=[Y22] Dilli Haat INA (28.574,77.210) // Plat1 to [Y37], Plat2 to [Y01]
+  - [P02]=[Y06] Azadpur (28.707,77.181)
+  - [P16]=[Y22] Dilli Haat INA (28.574,77.210)
 * Pink to Blue (Main):
-  - [P08]=[BM19] Rajouri Garden (28.649,77.123) // Plat1 to [BM50]/[BB08], Plat2 to [BM01]
-  - [P22]=[BM36] Mayur Vihar I (28.604,77.290) // Plat1 to [BM50], Plat2 to [BM01]
+  - [P08]=[BM19] Rajouri Garden (28.649,77.123)
+  - [P22]=[BM36] Mayur Vihar I (28.604,77.290)
 * Pink to Blue (Branch):
-  - [P28]=[BB06] Anand Vihar ISBT (28.647,77.316) // Plat1 to [BB08], Plat4 to [BM01]
-  - [P29]=[BB05] Karkarduma (28.649,77.306) // Plat1 to [BB08], Plat2 to [BB01]
-* Pink to Green: [P06]=[GN06] Punjabi Bagh West (28.673,77.136) // Plat3 to [GN24], Plat4 to [GN03]/[GN01]
-* Pink to Violet: [P18]=[V12] Lajpat Nagar (28.571,77.234) // Plat3 to [V34], Plat4 to [V01]
+  - [P28]=[BB06] Anand Vihar ISBT (28.647,77.316)
+  - [P29]=[BB05] Karkarduma (28.649,77.306)
+* Pink to Green: [P06]=[GN06] Punjabi Bagh West (28.673,77.136)
+* Pink to Violet: [P18]=[V12] Lajpat Nagar (28.571,77.234)
 
 ## Magenta Line
 ### Krishna Park Extension → Botanical Garden
@@ -140,11 +140,11 @@ Geo: [M01] (28.63,77.08)→→[M05] (28.59, 77.08) →→ [M10] (28.56,77.17)→
 
 Interchanges:
 
-* Magenta to Yellow: [M13]=[Y25] Hauz Khas (28.544,77.206) // Plat1 to [Y37], Plat2 to [Y01]
+* Magenta to Yellow: [M13]=[Y25] Hauz Khas (28.544,77.206)
 * Magenta to Blue (Main):
-    - [M02]=[BM14] Janakpuri West (28.630,77.078) // Plat1 to [BM50]/[BB08], Plat2 to [BM01]
-    - [M26]=[BM42] Botanical Garden (28.564,77.334) // Plat1 to [BM50], Plat2 to [BM01]
-* Magenta to Violet: [M18]=[V16] Kalkaji Mandir (28.549,77.257) // Plat1 to [V34], Plat2 to [V01]
+    - [M02]=[BM14] Janakpuri West (28.630,77.078)
+    - [M26]=[BM42] Botanical Garden (28.564,77.334)
+* Magenta to Violet: [M18]=[V16] Kalkaji Mandir (28.549,77.257)
 
 ## Grey Line
 ### Dwarka → Dhansa Bus Stand
@@ -155,7 +155,7 @@ Geo: [GY01] (28.615,77.023) →→ [GY04] (28.612,76.975)
 
 Interchanges:
 
-* Grey to Blue (Main): [GY01]=[BM09] Dwarka (28.615,77.023) // Plat1 to [BM50]/[BB08], Plat2 to [BM01], Plat3 to [BM50]/[BB08]
+* Grey to Blue (Main): [GY01]=[BM09] Dwarka (28.615,77.023)
 
 ## Airport Express Orange Line
 ### New Delhi → Yashobhoomi Dwarka Sector 25
@@ -165,8 +165,8 @@ Interchanges:
 Geo: [AE01] (28.643,77.220) →→ [AE05] (28.557,77.087) →→ [AE06] (28.552,77.058) →→ [AE07] (28.551,77.045)
 
 Interchanges:
-* AE to Yellow: [AE01]=[Y15] New Delhi (28.643,77.220) // Plat1 to [Y37], Plat2 to [Y01]
-* AE to Blue (Main): [AE06]=[BM01] Dwarka Sector 21 (28.552,77.058) // Plat1 to [BB08]/[BM50], Plat2 to [BB08]/[BM50]
+* AE to Yellow: [AE01]=[Y15] New Delhi (28.643,77.220)
+* AE to Blue (Main): [AE06]=[BM01] Dwarka Sector 21 (28.552,77.058)
 
 ## Rapid Metro RMGL
 ### Sector 55-56 → Phase 3
@@ -175,9 +175,93 @@ Interchanges:
 
 Geo: [RM01] (28.423,77.105) →→ [RM05] (28.471,77.093) →→ [RM10] (28.500,77.094) →→ [RM11] (28.493,77.092)
 
-* RMGL to Yellow: [RM06]=[Y34] Sikanderpur (28.481,77.093) // Plat1 to [Y37], Plat2 to [Y01]
+* RMGL to Yellow: [RM06]=[Y34] Sikanderpur (28.481,77.093)
 
 ## Interchange Platforms (In Progress)
+
+[Y16]=[BM29] Rajiv Chowk
+* Yellow: Plat1 to [Y37], Plat2 to [Y01]
+* Blue (Main): Plat3 to [BM50]/[BB08], Plat4 to [BM01]
+
+[Y18]=[V08] Central Secretariat
+* Yellow: Plat3 to [V34], Plat4 to [V01]
+* Violet: Plat1 to [Y37], Plat2 to [Y01]
+
+[Y06]=[P02] Azadpur
+* Yellow: Plat3 to [P35]/[P38], Plat4 to [P01]
+* Pink: Plat1 to [Y37], Plat2 to [Y01]
+
+[Y22]=[P16] Dilli Haat INA
+* Yellow: Plat3 to [P38]/[P35], Plat4 to [P01]
+* Pink: Plat1 to [Y37], Plat2 to [Y01]
+
+[Y25]=[M13] Hauz Khas
+* Yellow: Plat3 to [M21], Plat4 to [M01]
+* Magenta: Plat1 to [Y37], Plat2 to [Y01]
+
+[Y15]=[AE01] New Delhi
+* Yellow: Plat1 to [Y37], Plat2 to [Y01]
+* Airport Express: Plat1 to [Y37], Plat2 to [Y01]
+
+[Y34]=[RM06] Sikanderpur
+* Yellow: Plat1 to [RM01], Plat2 to [RM11]
+* Rapid Metro: Plat1 to [Y37], Plat2 to [Y01]
+
+[BM34]=[BB01] Yamuna Bank
+* Blue (Main): Plat3 to [BB08]
+* Blue (Branch): Plat1 to [BM50], Plat2 to [BM01], Plat4 to [BM01]
+
+[BM22]=[GN01] Kirti Nagar
+* Blue (Main): Plat3 to [GN24], Plat4 to [GN01]
+* Green: Plat1 to [BM50]/[BB08], Plat2 to [BM01]
+
+[BM31]=[V06] Mandi House
+* Blue (Main): Plat3 to [V34], Plat4 to [V01]
+* Violet: Plat1 to [BM50]/[BB08], Plat2 to [BM01]
+
+[BM19]=[P08] Rajouri Garden
+* Blue (Main): Plat3 to [P38]/[P35], Plat4 to [P01]
+* Pink: Plat1 to [BM50]/[BB08], Plat2 to [BM01]
+
+[BM36]=[P22] Mayur Vihar I
+* Blue (Main): Plat3 to [P38], Plat4 to [P01]
+* Pink: Plat1 to [BM50], Plat2 to [BM01]
+
+[P28]=[BB06] Anand Vihar ISBT
+* Pink: Plat1 to [BB08], Plat4 to [BM01]
+* Blue (Branch): Plat3 to [P38], Plat4 to [P01]
+
+[BM14]=[M02] Janakpuri West
+* Blue (Main): Plat4 to [M26]
+* Magenta: Plat1 to [BM50]/[BB08], Plat2 to [BM01]
+
+[BM42]=[M26] Botanical Garden
+* Blue (Main): Plat3 to [M26], Plat4 to [M02]
+* Magenta: Plat1 to [BM50], Plat2 to [BM01]
+
+[BM09]=[GY01] Dwarka
+* Blue (Main): Plat4 to [GY01], Plat5 to [GY04]
+* Grey: Plat1 to [BM50]/[BB08], Plat2 to [BM01], Plat3 to [BM50]/[BB08]
+
+[BM01]=[AE06] Dwarka Sector 21
+* Blue (Main): Plat2 to [AE07], Plat3 to [AE01], Plat4 to [AE01]
+* Airport Express: Plat1 to [BB08]/[BM50], Plat2 to [BB08]/[BM50]
+
+[BB05]=[P29] Karkarduma
+* Blue (Branch): Plat3 to [P38], Plat4 to [P01]
+* Pink: Plat1 to [BB08], Plat2 to [BB01]
+
+[P06]=[GN06] Punjabi Bagh West
+* Pink: Plat3 to [GN24], Plat4 to [GN03]/[GN01]
+* Green: Plat1 to [P38]/[P35], Plat2 to [P01]
+
+[P18]=[V12] Lajpat Nagar
+* Pink: Plat3 to [V34], Plat4 to [V01]
+* Violet: Plat3 to [P38], Plat4 to [P01]
+
+[V16]=[M18] Kalkaji Mandir
+* Violet: Plat3 to [M26], Plat4 to [M02]
+* Magenta: Plat1 to [V34], Plat2 to [V01]
 
 [R16]=[Y12]=[V01] Kashmere Gate:
 - Yellow: Plat1 to [Y37], Plat2 to [Y01]
