@@ -179,10 +179,6 @@ Geo: [RM01] (28.423,77.105) →→ [RM05] (28.471,77.093) →→ [RM10] (28.500,
 
 ## Interchange Platforms (In Progress)
 
-[Y16]=[BM29] Rajiv Chowk
-* Yellow: Plat1 to [Y37], Plat2 to [Y01]
-* Blue (Main): Plat3 to [BM50]/[BB08], Plat4 to [BM01]
-
 [Y18]=[V08] Central Secretariat
 * Yellow: Plat3 to [V34], Plat4 to [V01]
 * Violet: Plat1 to [Y37], Plat2 to [Y01]
@@ -196,16 +192,15 @@ Geo: [RM01] (28.423,77.105) →→ [RM05] (28.471,77.093) →→ [RM10] (28.500,
 * Pink: Plat1 to [Y37], Plat2 to [Y01]
 
 [Y25]=[M13] Hauz Khas
-* Yellow: Plat3 to [M21], Plat4 to [M01]
-* Magenta: Plat1 to [Y37], Plat2 to [Y01]
+* Magenta: Plat3 to [M21], Plat4 to [M01]
+* Yellow: Plat1 to [Y37], Plat2 to [Y01]
 
 [Y15]=[AE01] New Delhi
 * Yellow: Plat1 to [Y37], Plat2 to [Y01]
-* Airport Express: Plat1 to [Y37], Plat2 to [Y01]
 
 [Y34]=[RM06] Sikanderpur
-* Yellow: Plat1 to [RM01], Plat2 to [RM11]
-* Rapid Metro: Plat1 to [Y37], Plat2 to [Y01]
+* Yellow: Plat1 to [Y37], Plat2 to [Y01]
+* Rapid Metro: Plat1 to [RM01], Plat2 to [RM11]
 
 [BM34]=[BB01] Yamuna Bank
 * Blue (Main): Plat3 to [BB08]
@@ -260,8 +255,8 @@ Geo: [RM01] (28.423,77.105) →→ [RM05] (28.471,77.093) →→ [RM10] (28.500,
 * Violet: Plat3 to [P38], Plat4 to [P01]
 
 [V16]=[M18] Kalkaji Mandir
-* Violet: Plat3 to [M26], Plat4 to [M02]
-* Magenta: Plat1 to [V34], Plat2 to [V01]
+* Violet: Plat1 to [V34], Plat2 to [V01]
+* Magenta: Plat3 to [M26], Plat4 to [M02]
 
 [R16]=[Y12]=[V01] Kashmere Gate:
 - Yellow: Plat1 to [Y37], Plat2 to [Y01]
@@ -279,6 +274,11 @@ Geo: [RM01] (28.423,77.105) →→ [RM05] (28.471,77.093) →→ [RM10] (28.500,
 [R24]=[P04] Netaji Subhash Place:
 - Red: Plat1 to [R29], Plat2 to [R01]
 - Pink: Plat3 to [P38]/[P35], Plat4 to [P01]
+
+[Y16]=[BM29] Rajiv Chowk
+* Yellow: Plat1 to [Y37], Plat2 to [Y01]
+* Blue (Main): Plat3 to [BM50]/[BB08], Plat4 to [BM01]
+
 
 This text map is designed to help humans or AI wayfind routes between areas and metro stops in Delhi. Note that numbers like [R01] are internal IDs in this document, not official notation. (official site: delhimetrorail.com)
 
