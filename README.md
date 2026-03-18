@@ -72,6 +72,11 @@ Interchanges:
 ## Blue Line (Branch)
 ### Yamuna Bank → Vaishali
 
+Blue Line (Branch) platform directions for BB02–BB08:
+- Plat1 → [BB08] Vaishali
+- Plat2 → [BB01] Yamuna Bank
+- Exceptions: For BB01 see [BM34]=[BB01] Yamuna Bank in Interchange Platforms section.
+
 [BB01] Yamuna Bank → [BB02] Laxmi Nagar → [BB03] Nirman Vihar → [BB04] Preet Vihar → [BB05] Karkarduma → [BB06] Anand Vihar ISBT → [BB07] Kaushambi → [BB08] Vaishali
 
 Geo: [BB01] (28.623,77.268) →→ [BB05] (28.649,77.306) →→ [BB08] (28.650,77.340)
