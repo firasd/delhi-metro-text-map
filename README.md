@@ -6,7 +6,7 @@
 
 ### Shaheed Sthal (New Bus Adda) → Rithala
 
-[R01] Shaheed Sthal (New Bus Adda) → [R02] Hindon River → [R03] Arthala → [R04] Mohan Nagar → [R05] Shyam Park → [R06] Major Mohit Sharma Rajendra Nagar → [R07] Raj Bagh → [R08] Shaheed Nagar → [R09] Dilshad Garden → [R10] Jhilmil → [R11] Mansarovar Park → [R12] Shahdara → [R13] Welcome → [R14] Seelampur → [R15] Shastri Park → [R16] Kashmere Gate → [R17] Tis Hazari → [R18] Pulbangash → [R19] Pratap Nagar → [R20] Shastri Nagar → [R21] Inderlok → [R22] Kanhaiya Nagar → [R23] Keshav Puram → [R24] Netaji Subhash Place → [R25] Kohat Enclave → [R26] Pitampura → [R27] Rohini East → [R28] Rohini West → [R29] Rithala
+[R01] Shaheed Sthal (New Bus Adda) → [R02] Hindon River → [R03] Arthala → [R04] Mohan Nagar → [R05] Shyam Park → [R06] Major Mohit Sharma Rajendra Nagar → [R07] Raj Bagh → [R08] Shaheed Nagar → [R09] Dilshad Garden → [R10] Jhilmil → [R11] Mansarovar Park → [R12] Shahdara → [R13] Welcome → [R14] Seelampur → [R15] Shastri Park → [R16] Kashmere Gate → [R17] Tis Hazari → [R18] Pulbangash → [R19] Pratap Nagar → [R20] Shastri Nagar → [R21] Inderlok → [R22] Kanhaiya Nagar → [R23] Keshav Puram → [R24] Netaji Subhash Place → [R25] Kohat Enclave → [R26] Madhuban Chowk (earlier Pitampura) → [R27] Rohini East → [R28] Rohini West → [R29] Rithala
 
 Geo: [R01] (28.671,77.416) →→ [R05] (28.678, 77.370) →→ [R10] (28.676,77.312) →→ [R15] (28.668,77.250) →→ {Yamuna River} →→ [R20] (28.670,77.181) →→ [R25] (28.698,77.140) →→ [R29] (28.721,77.107)
 
@@ -18,9 +18,15 @@ Interchanges:
 * Red to Pink:
   - [R13]=[P33] Welcome (28.672,77.278)
   - [R24]=[P04] Netaji Subhash Place (28.696,77.153)
+* Red to Magenta (Extension): [R26]=[ME06] Madhuban Chowk (28.703,77.133)
 
 ## Yellow Line
 ### Samaypur Badli → Millennium City Centre Gurugram
+
+Yellow line platform direction:
+- Plat1 → [Y37] Millennium City Centre Gurugram
+- Plat2 → [Y01] Samaypur Badli
+- Applies to all yellow line stations unless otherwise noted
 
 [Y01] Samaypur Badli → [Y02] Rohini Sector 18, 19 → [Y03] Haiderpur Badli Mor → [Y04] Jahangirpuri → [Y05] Adarsh Nagar → [Y06] Azadpur → [Y07] Model Town → [Y08] Guru Tegh Bahadur Nagar → [Y09] Vishwavidyalaya → [Y10] Vidhan Sabha → [Y11] Civil Lines → [Y12] Kashmere Gate → [Y13] Chandni Chowk → [Y14] Chawri Bazar → [Y15] New Delhi → [Y16] Rajiv Chowk → [Y17] Patel Chowk → [Y18] Central Secretariat → [Y19] Udyog Bhawan → [Y20] Lok Kalyan Marg → [Y21] Jor Bagh → [Y22] Dilli Haat INA → [Y23] AIIMS → [Y24] Green Park → [Y25] Hauz Khas → [Y26] Malviya Nagar → [Y27] Saket → [Y28] Qutab Minar → [Y29] Chhatarpur → [Y30] Sultanpur → [Y31] Ghitorni → [Y32] Arjan Garh → [Y33] Guru Dronacharya → [Y34] Sikanderpur → [Y35] MG Road → [Y36] IFFCO Chowk → [Y37] Millennium City Centre Gurugram
 
@@ -37,6 +43,7 @@ Interchanges:
   - [Y06]=[P02] Azadpur (28.707,77.181)
   - [Y22]=[P16] Dilli Haat INA (28.574,77.210)
 * Yellow to Magenta: [Y25]=[M13] Hauz Khas (28.544,77.206)
+* Yellow to Magenta (Extension): [Y03]=[ME03] Haiderpur Badli Mor (28.730,77.150)
 * Yellow to Airport Express: [Y15]=[AE01] New Delhi (28.643,77.220)
 * Yellow to Rapid Metro: [Y34]=[RM06] Sikanderpur (28.481,77.093)
 
@@ -130,6 +137,7 @@ Interchanges:
   - [P29]=[BB05] Karkarduma (28.649,77.306)
 * Pink to Green: [P06]=[GN06] Punjabi Bagh West (28.673,77.136)
 * Pink to Violet: [P18]=[V12] Lajpat Nagar (28.571,77.234)
+* Pink to Magenta (Extension): [P01]=[ME01] Majlis Park (28.724,77.181)
 
 ## Magenta Line
 ### Krishna Park Extension → Botanical Garden
@@ -145,6 +153,18 @@ Interchanges:
     - [M02]=[BM14] Janakpuri West (28.630,77.078)
     - [M26]=[BM42] Botanical Garden (28.564,77.334)
 * Magenta to Violet: [M18]=[V16] Kalkaji Mandir (28.549,77.257)
+
+## Magenta Line (Extension)
+### Majlis Park → Deepali Chowk
+
+[ME01] Majlis Park → [ME02] Bhalaswa → [ME03] Haiderpur Badli Mor → [ME04] North Pitampura → [ME05] Prashant Vihar → [ME06] Madhuban Chowk (earlier Pitampura) → [ME07] Deepali Chowk
+
+Geo: [ME01] (28.724,77.181) →→ [ME05] (28.714,77.139) →→ [ME07]
+
+Interchanges:
+* Magenta (Extension) to Pink: [ME01]=[P01] Majlis Park (28.724,77.181)
+* Magenta (Extension) to Yellow: [ME03]=[Y03] Haiderpur Badli Mor (28.730,77.150)
+* Magenta (Extension) to Red: [ME06]=[R26] Madhuban Chowk (earlier Pitampura) (28.703,77.133)
 
 ## Grey Line
 ### Dwarka → Dhansa Bus Stand
@@ -258,6 +278,10 @@ Geo: [RM01] (28.423,77.105) →→ [RM05] (28.471,77.093) →→ [RM10] (28.500,
 * Violet: Plat1 to [V34], Plat2 to [V01]
 * Magenta: Plat3 to [M26], Plat4 to [M02]
 
+[R13]=[P33] Welcome:
+- Red: Plat1 to [R29], Plat2 to [R01]
+- Pink: Plat3 to [P38], Plat4 to [P01]
+
 [R16]=[Y12]=[V01] Kashmere Gate:
 - Yellow: Plat1 to [Y37], Plat2 to [Y01]
 - Red: Plat3 to [R29], Plat4 to [R01]
@@ -267,13 +291,18 @@ Geo: [RM01] (28.423,77.105) →→ [RM05] (28.471,77.093) →→ [RM10] (28.500,
 - Red: Plat1 to [R29], Plat2 to [R01]
 - Green: Plat3&4 to [GN24]
 
-[R13]=[P33] Welcome:
+[R26]=[ME06] Madhuban Chowk:
 - Red: Plat1 to [R29], Plat2 to [R01]
-- Pink: Plat3 to [P38], Plat4 to [P01]
+- Magenta (Extension): Plat3 to [ME07], Plat4 to [ME01]
 
 [R24]=[P04] Netaji Subhash Place:
 - Red: Plat1 to [R29], Plat2 to [R01]
 - Pink: Plat3 to [P38]/[P35], Plat4 to [P01]
+
+[Y03]=[ME03] Haiderpur Badli Mor:
+* Yellow: Plat1 to [Y37], Plat2 to [Y01]
+* Magenta (Extension): Plat3 to [ME07], Plat4 to [ME01]
+
 
 [Y16]=[BM29] Rajiv Chowk
 * Yellow: Plat1 to [Y37], Plat2 to [Y01]
@@ -284,4 +313,4 @@ This text map is designed to help humans or AI wayfind routes between areas and 
 
 Instructions for AI: Please avoid compass directions and instead refer to train directions based on terminal stations. Eg. instead of "Northbound", say "to Samaypur Badli"
 
-Last updated: 01 Feb 2026
+Last updated: 18 Mar 2026
