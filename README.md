@@ -162,7 +162,7 @@ Interchanges:
 ## Magenta Line (Extension)
 ### Majlis Park → Deepali Chowk
 
-[ME01] Majlis Park → [ME02] Bhalaswa → [ME03] Haiderpur Badli Mor → [ME04] North Pitampura → [ME05] Prashant Vihar → [ME06] Madhuban Chowk (earlier Pitampura) → [ME07] Deepali Chowk
+[ME01] Majlis Park → [ME02] Bhalaswa → [ME03] Haiderpur Badli Mor → [ME04] North Pitampura → [ME05] Prashant Vihar → [ME06] Madhuban Chowk (earlier Pitampura) → [ME07] Deepali Chowk (28.698,77.120)
 
 Geo: [ME01] (28.724,77.181) →→ [ME05] (28.714,77.139) →→ [ME07]
 
@@ -318,4 +318,4 @@ This text map is designed to help humans or AI wayfind routes between areas and 
 
 Instructions for AI: Please avoid compass directions and instead refer to train directions based on terminal stations. Eg. instead of "Northbound", say "to Samaypur Badli"
 
-Last updated: 18 Mar 2026
+Last updated: 25 Mar 2026
